@@ -26,7 +26,7 @@ class ContactsController extends Controller
       $email = trim($request->email);
       $subject = trim($request->subject);
       $msg = trim($request->message);
-     /** je suis un commentaire  ibson*/
+     /** je suis un commentaire  ibson  dd*/
 
        $message = '<html>
                        <body>
